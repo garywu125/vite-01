@@ -1,6 +1,7 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png" />
   <h1 style="color:blue">Reactivity APIs</h1>
+  <h1 style="color:red">deploy to vercel</h1>
   <HelloWorld msg=" Vue 3 Reactivity APIs + Vite" />
 </template>
 
